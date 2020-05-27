@@ -6,7 +6,7 @@ Top 10 programming languages:
 5) csharp (2003)
 6) perl (2003)
 7) c (2004)
-8) cpp (2004) 
+8) cpp (2004) (I hate 78%hate this language)
 9) bash (2004)
 10)python (2005)
 
