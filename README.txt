@@ -7,7 +7,7 @@ Top 11 programming languages:
 6) perl (2003)
 7) php (2003)
 8) c (2004)
-9) cpp (2004) (I hate 78%hate this language)
+9) cpp (2004) (I 78%hate the OOP-aspect of this language)
 10)bash (2004)
 11)python (2005)
 
