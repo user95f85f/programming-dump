@@ -3,7 +3,7 @@ https://user95f85f.github.io/programming-dump/index.html
 Top 11 programming languages:
 1) html (1997)
 2) javascript (1997)
-3) batch (1999)
+3) batch (1999) (other than hello worlds I don't know what to do with this language)
 4) java (2003) (Read/WriteBuffers are stupid)
 5) csharp (2003) (ie. using the Visual Studio .NET IDE)
 6) perl (2003) (slurping a file is 72%stupid)
