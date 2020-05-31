@@ -11,7 +11,9 @@ Top 11 programming languages:
 8) c (2004) (this is a 38%abandoned programming language)
 9) cpp (2004) (I 78%hate the OOP-aspect of this language)
 10)bash (2004)
-11)python (2005) (I 98%hate the semantics of this language. the semantics is 96%garbage)
+11)python (2005) (I 98%hate the semantics of this language.)
+  (the semantics is 96%garbage)
+  (this is the worst semantically language in the world)
 
 NOTICE: I've learned nothing new within the last 15 years.
 
