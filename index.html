@@ -5,13 +5,82 @@
 <title>Programming Dump</title>
 <style type="text/css">
 body{margin:0;color:#eee;background-color:black;line-height:1.4em}
+.pink{background-color:pink}
+pre{font-size:1.6em;line-height:1.3em}
 </style>
 </head>
 
 <body>
-Hello, person.<br />
-Assuming Hello, World! programs were illegal because they were translated to intellectual property in one way/form or another<br />
-It's 98%time to stop programming.<br />
+<div>
+<button>generate cool code</button>
+<button>randomize</button>
+<button>hide comments</button>
+</div>
+
+<!--generated from files-->
+<div>
+<button class="pink">use loops</button>
+<button class="pink">2</button>
+<button class="pink">3</button>
+<button class="pink">4</button>
+</div>
+<div>
+<button class="pink">use subroutines</button>
+<button class="pink">2</button>
+<button class="pink">3</button>
+</div>
+<div>
+<button class="pink">use arrays</button>
+<button class="pink">2</button>
+<button class="pink">3</button>
+</div>
+<div>
+<button class="pink">use files</button>
+<button class="pink">2</button>
+<button class="pink">3</button>
+</div>
+
+<pre>#!/usr/bin/perl
+use warnings;use strict;
+my @ar = ('Hello, World!', 'Hello, World!', 'Hello, World!');
+my $ar = ['Hello, ', "World!"];
+
+sub paradox{ print "Hello, World!\n"; }
+sub yoda{ print $_[0]; }
+
+paradox();
+print $ar[0], "\n", $ar[1], "\n", $ar[2], "\n";
+print $ar-&gt;[0], $ar-&gt;[1], "\n";
+#&lt;gets done once&gt;
+foreach(0..0){ for(0..0){ print "Hello, World!\n"; } }
+#&lt;/gets done once&gt;
+yoda("Hello, World!\n");
+</pre>
+
+<div>
+<button>re-indent:</button> <input type="text" size="40" />
+</div>
+
+<div>
+<button>replace hello string:</button> <input type="text" size="30" />
+</div>
+
+<div>
+<button>encode self into base16:</button>
+<input type="text" size="40" />
+</div>
+
+<div>
+get base16ToOutFile script: <select><option selected="selected">C</option>
+<option>C++</option>
+<option>perl5</option>
+<option>python3</option>
+<option>php7</option>
+</select>
+<br>
+<textarea cols="40" rows="5"></textarea>
+</div>
+
 <ol>
 <li>the code: <a href="https://github.com/user95f85f/programming-dump/tree/master">https://github.com/user95f85f/programming-dump/tree/master</a></li>
 <li>here: <a href="https://user95f85f.github.io/programming-dump/index.html">https://user95f85f.github.io/programming-dump/index.html</a></li>
